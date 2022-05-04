@@ -8,4 +8,4 @@ Bem vindo ao meu gitHub!!!
 
 
 
-- 🌱 Atualmente desenvolvendo as habilidades em programação com Python.
+- 🌱 Atualmente desenvolvendo as habilidades em programação com foco principalmente em Desenvolvimento WEB.
